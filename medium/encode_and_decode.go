@@ -37,9 +37,11 @@ func encode(strs []string) string {
 func getCountAndIndex(s string, index int) (count int, newIndex int) {
 	count = 0
 	for i := index; i < len(s) && s[i] != '#'; i++ {
-		println(s[i])
+		if !(s[i] >= '0' && s[i] <= '9') {
+			panic("Not a number, error while decoding")
+		}
+
 		c := int(s[i] - '0')
-		println(c)
 		count = count*10 + c
 		newIndex = i + 1
 	}
@@ -50,7 +52,6 @@ func decode(s string) []string {
 	var result []string
 	for i := 0; i < len(s); i++ {
 		count, index := getCountAndIndex(s, i)
-		println("got count and index : ", count, index)
 		if index+1+count > len(s) {
 			panic("Out of boundss")
 		}

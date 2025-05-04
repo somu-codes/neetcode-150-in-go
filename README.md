@@ -16,3 +16,5 @@ This repository contains my solutions to the NeetCode 150 problems, implemented 
 
 7. [Product of array except self](./medium/product_of_array_except_self_test.go) | [Leet Code Submission](https://leetcode.com/problems/product-of-array-except-self/submissions/1625046663/)
 
+8. [Valid Sudoku](./medium/valid_sudoku_test.go) | [Leet Code Submission](https://leetcode.com/problems/valid-sudoku/submissions/1625099246/)
+
