@@ -18,3 +18,5 @@ This repository contains my solutions to the NeetCode 150 problems, implemented 
 
 8. [Valid Sudoku](./medium/valid_sudoku_test.go) | [Leet Code Submission](https://leetcode.com/problems/valid-sudoku/submissions/1625099246/)
 
+9. [Longest Consecutive Elements](./medium/longest_consecutive_elements_test.go) | [Leet Code Submission](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1625138732/)
+
