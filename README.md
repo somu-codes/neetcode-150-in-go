@@ -20,5 +20,9 @@ This repository contains my solutions to the NeetCode 150 problems, implemented 
 
 9. [Longest Consecutive Elements](./medium/longest_consecutive_elements_test.go) | [Leet Code Submission](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1625138732/)
 
-9. [Valid Palindrome](./medium/valid_palindrome_test.go) | [Leet Code Submission](https://leetcode.com/problems/valid-palindrome/submissions/1625155557/)
+10. [Valid Palindrome](./medium/valid_palindrome_test.go) | [Leet Code Submission](https://leetcode.com/problems/valid-palindrome/submissions/1625155557/)
+
+11. [Two Sum Part 2](./medium/two_sum_part_2_test.go) | [Leet Code Submission](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1625475738/)
+
+12. [Three Sum](./medium/3sum_test.go) | [Leet Code Submission](https://leetcode.com/problems/3sum/submissions/1625487222/)
 
