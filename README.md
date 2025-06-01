@@ -26,3 +26,5 @@ This repository contains my solutions to the NeetCode 150 problems, implemented 
 
 12. [Three Sum](./medium/3sum_test.go) | [Leet Code Submission](https://leetcode.com/problems/3sum/submissions/1625487222/)
 
+13. [Best time to buy sell stocks] (./easy/beest_time_to_buy_sell_stocks_test.go) | [Leet Code Submission](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1649904978/)
+
